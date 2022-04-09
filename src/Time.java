@@ -1,11 +1,9 @@
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
-import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
 import javafx.util.Duration;
-//Jason Hanna
-//300266085
+
 public class Time extends HBox {
 	private int time;
 	private Timeline ticker;

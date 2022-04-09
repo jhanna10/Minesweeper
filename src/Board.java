@@ -1,15 +1,10 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
 import javafx.scene.layout.GridPane;
 
-//Jason Hanna
-//300266085
 
 
 public class Board {

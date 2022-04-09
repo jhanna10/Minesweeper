@@ -1,8 +1,7 @@
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseButton;
-//Jason Hanna
-//300266085
+
 public class Tile extends ImageView {
 	//keep a reference to the header and time
 	private Header header;

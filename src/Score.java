@@ -1,7 +1,6 @@
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
-//Jason Hanna
-//300266085
+
 public class Score extends HBox {
 	private int num;
 	private ImageView digit1;

@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.Scanner;
+
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -17,21 +17,14 @@ import javafx.scene.control.TextField;
 import javafx.scene.image.Image;
 import javafx.scene.layout.Border;
 import javafx.scene.layout.BorderImage;
-import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.BorderRepeat;
-import javafx.scene.layout.BorderStroke;
-import javafx.scene.layout.BorderStrokeStyle;
 import javafx.scene.layout.BorderWidths;
-import javafx.scene.layout.CornerRadii;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
-import javafx.scene.paint.Color;
-import javafx.scene.paint.Paint;
 import javafx.stage.Stage;
 
-//Jason Hanna
-//300266085
+
 public class Game extends Application {
 	
 	public static void main(String[] args) {

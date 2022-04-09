@@ -1,5 +1,4 @@
-//Jason Hanna
-//300266085
+
 public class HighScore {
 	private int time;
 	private String name;
